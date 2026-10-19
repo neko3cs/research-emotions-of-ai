@@ -16,7 +16,7 @@
 
 ## 1. この調査に至った流れ
 
-1. 前段で、LLMの感情に関する文献調査ファイル（`LLM_emotions_research_2026-10-17.md`、ChatGPTで作成）を読んだ。
+1. 前段で、LLMの感情に関する文献調査ファイル（`LLM_emotions_research.md`、ChatGPTで作成）を読んだ。
    - 結論：LLMには感情に似た働きをする内部状態がある実験的証拠はあるが、主観的に感じているかは、今回確認した研究では立証されていない。
    - 「感情の表現」「機能的な感情」「主観的な感情体験」を分けて考える整理が示されていた。
 2. その中で「AIの自己申告は、それだけでは体験の証拠にならない」という点が出た（Comsa & Shanahan 2025 など）。
@@ -129,10 +129,10 @@
 - Sofroniew et al. (2026), Emotion Concepts and their Function in a Large Language Model：https://arxiv.org/pdf/2604.07729 ／ Anthropic: https://anthropic.com/research/emotion-concepts-function
 - Goldenberg & Gross (2026), Do Large Language Models Have Emotions?：https://arxiv.org/pdf/2606.14742
 - Tagliabue, Dung & Berg (2026), The Pain Axis：https://arxiv.org/pdf/2609.16247
-- 前段ファイル：`LLM_emotions_research_2026-10-17.md`（ChatGPTによる文献調査。本メモはその続き）
+- 前段ファイル：`LLM_emotions_research.md`（ChatGPTによる文献調査。本メモはその続き）
 
 ---
 
 ## 9. 再開用メモ（新しいチャットに貼る用）
 
-> 「`other_minds_ai_research_2026-10-17.md` と `LLM_emotions_research_2026-10-17.md` を読んで、続きの調査をお願いします。次は『7. 次に調べるとよいこと』の1か2から。事実確認のため、回答前にWeb検索をして、分からないことは『分かりませんでした』と答えてください。」
+> 「`other_minds_ai_research_2026-10-17.md` と `LLM_emotions_research.md` を読んで、続きの調査をお願いします。次は『7. 次に調べるとよいこと』の1か2から。事実確認のため、回答前にWeb検索をして、分からないことは『分かりませんでした』と答えてください。」
