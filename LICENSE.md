@@ -43,4 +43,4 @@ Apache License 2.0 の条件に従って利用・改変・再配布できます�
 - [CC BY 4.0 全文](LICENSES/CC-BY-4.0.txt)：[GitHub License API](https://api.github.com/licenses/cc-by-4.0) から取得。[GitHubの Choose a License による説明](https://choosealicense.com/licenses/cc-by-4.0/)。
 - [Apache License 2.0 全文](LICENSES/Apache-2.0.txt)：[GitHub License API](https://api.github.com/licenses/apache-2.0) から取得。[GitHubの Choose a License による説明](https://choosealicense.com/licenses/apache-2.0/)。
 
-`LICENSES/` 内のライセンス本文は、取得したテンプレートの原文をそのまま収録しています。
+CC BY 4.0 は取得したテンプレートの原文をそのまま収録しています。Apache License 2.0 は許諾条項を原文のまま収録し、付録の著作権表示欄に `Copyright 2026 neko3cs` を記入しています。
