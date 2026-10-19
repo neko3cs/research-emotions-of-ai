@@ -141,7 +141,7 @@ Mauss & Robinson[1]は、指標間の一致が必ずしも強くないこと、�
 
 LLMでは、言語的な報告、課題での選択、内部計算を分けて測り、同じ出力を証拠として二重に数えないことが重要になる。機能上の変化が確認できても、主観的な快苦の有無は、理論と追加の根拠に照らして別に評価する。
 
-人間以外の証拠の組み合わせについては[動物からAIへの適用](cross_species_emotion_ai_research_2026-10-19.md)、定義の違いについては[感情の定義・理論](human_emotion_theories_research.md)を参照。
+人間以外の証拠の組み合わせについては[動物からAIへの適用](cross_species_emotion_ai_research.md)、定義の違いについては[感情の定義・理論](human_emotion_theories_research.md)を参照。
 
 ## 9. 参考文献
 
