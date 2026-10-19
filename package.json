@@ -1,0 +1,18 @@
+{
+  "name": "research-emotions-of-ai",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "lint:text": "textlint \"**/*.md\" \"**/*.txt\"",
+    "lint:text:fix": "textlint --fix \"**/*.md\" \"**/*.txt\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "packageManager": "pnpm@12.14.0+sha512.c18ba6d87993d3d164cb5e8948f32b2c06ee854487e06cd8d86781342fb3e5bb4634367034711e86802baa9c37bea906ce1929ad08d70884c97d801df13389a6",
+  "type": "module",
+  "devDependencies": {
+    "textlint": "^15.8.0",
+    "textlint-rule-preset-ja-technical-writing": "^12.0.2"
+  }
+}
