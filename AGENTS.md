@@ -3,6 +3,7 @@
 ## Git Workflow
 
 - Direct commits and pushes to `main` are allowed in this repository.
+- When Codex contributes changes, include `Co-authored-by: Codex <noreply@openai.com>` in the commit message.
 
 ## Research Constraints
 
@@ -19,4 +20,7 @@
 
 ## Incidents
 
-No incidents recorded.
+| Date | What went wrong | Prevention |
+| --- | --- | --- |
+| 2026-10-19 | README labeled the ongoing survey as completed; corrected in `e1dbfb4`. | Do not infer that the survey is complete from the publication of individual reports. |
+| 2026-10-19 | README repeated a fixed date for all reports; corrected in `d566e9c`. | Keep report-specific dates in individual reports so adding reports does not require updating a shared date statement. |
