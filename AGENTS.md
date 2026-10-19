@@ -7,6 +7,7 @@
 
 ## Writing
 
+- Use `surveys/TEMPLATE.md` when creating or revising survey reports. Maintain one report per topic and omit dates from report filenames.
 - Write survey reports for readers with a bachelor's degree in informatics. Do not assume specialist knowledge of neuroscience, psychology, or philosophy.
 - Explain unfamiliar terms in plain Japanese at first use, with concrete examples where helpful. Use connected prose to explain the reasoning behind tables and conclusions.
 
