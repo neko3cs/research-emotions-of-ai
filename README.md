@@ -32,7 +32,7 @@
 | --- | --- |
 | [LLM自身は感情を持つのか](surveys/LLM_emotions_research.md) | 感情に関連する内部表現、快苦を扱う実験、機能的な感情への批判、主観的体験の評価を整理した文献調査。最初に読む資料です。 |
 | [LLMの性格設計と感情の関係](surveys/LLM_personality_emotion_research.md) | 各社の公開資料と性格・ペルソナの研究を比較し、性格と感情の関係を検証課題として整理した補足調査。 |
-| [他者の心の問題とAIの感情](surveys/other_minds_ai_research_2026-10-17.md) | 自己申告の限界と「他者に心があるとどう判断するか」という哲学上の問題を、AIに当てはめた調査メモ。 |
+| [他者の心の問題とAIの感情](surveys/other_minds_ai_research.md) | 自己申告の限界と「他者に心があるとどう判断するか」という哲学上の問題を、AIに当てはめた調査メモ。 |
 | [人間の感情の定義・理論とAIとの比較基準](surveys/human_emotion_theories_research_2026-10-19.md) | 主な感情理論を比較し、表現・機能・仕組み・主観的体験のどの共通性を調べるかを整理した基礎サーベイ。 |
 | [感情の測定方法](surveys/emotion_measurement_research_2026-10-19.md) | 自己申告・行動・身体反応・脳活動の証拠と限界を比較し、LLM実験の測定設計を検討したサーベイ。 |
 | [動物の感情研究からAIへの適用](surveys/cross_species_emotion_ai_research_2026-10-19.md) | 動物の感情・快苦の評価枠組みと代表的実験を調べ、AIへ適用する際の課題を整理したサーベイ。 |
