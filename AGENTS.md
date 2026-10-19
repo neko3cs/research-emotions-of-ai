@@ -5,6 +5,11 @@
 - Direct commits and pushes to `main` are allowed in this repository.
 - When Codex contributes changes, include `Co-authored-by: Codex <noreply@openai.com>` in the commit message.
 
+## Writing
+
+- Write survey reports for readers with a bachelor's degree in informatics. Do not assume specialist knowledge of neuroscience, psychology, or philosophy.
+- Explain unfamiliar terms in plain Japanese at first use, with concrete examples where helpful. Use connected prose to explain the reasoning behind tables and conclusions.
+
 ## Research Constraints
 
 - Draw on computer science, neuroscience, psychology, and philosophy. Include human emotion theories and assessment methods as foundations for evaluating AI.
