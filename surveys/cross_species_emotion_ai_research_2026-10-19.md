@@ -131,7 +131,7 @@ Butlin et al. は、AIの意識について、複数の神経科学的な理論�
 - 種ごとの全証拠、独立追試、動物の意識に関する全理論は網羅していない。既存の [他者の心の問題のメモ](other_minds_ai_research.md) の全出典を再検証したものでもない。
 - マルハナバチの論争は、確認できた原研究・訂正情報・批判・応答の範囲に限る。その後の全応酬を網羅したとはしない。
 
-定義の比較は [感情の定義・理論](human_emotion_theories_research.md)、測定設計は [感情の測定方法](emotion_measurement_research_2026-10-19.md) を参照。
+定義の比較は [感情の定義・理論](human_emotion_theories_research.md)、測定設計は [感情の測定方法](emotion_measurement_research.md) を参照。
 
 ## 8. 参考文献・資料
 

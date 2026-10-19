@@ -108,7 +108,7 @@ Panksepp[6]は、脳への刺激や関連する行動から、哺乳類の基本
 
 調査としては、本文未確認の理論、個々の実験、哲学上の立場の比較を深める必要がある。神経科学の説明を得ることだけで、主観的体験と物理的な仕組みの関係が解決したとは扱わない。
 
-測定の具体化は[感情の測定方法](emotion_measurement_research_2026-10-19.md)、人間以外への推論は[動物からAIへの適用](cross_species_emotion_ai_research_2026-10-19.md)を参照。
+測定の具体化は[感情の測定方法](emotion_measurement_research.md)、人間以外への推論は[動物からAIへの適用](cross_species_emotion_ai_research_2026-10-19.md)を参照。
 
 ## 8. まとめ
 
