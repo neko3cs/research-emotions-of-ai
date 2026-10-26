@@ -2,7 +2,7 @@
 
 ## Git Workflow
 
-- Direct commits and pushes to `main` are allowed in this repository.
+- Commit and push completed, verified changes directly to `main` without asking again, unless the user requests otherwise.
 - When Codex contributes changes, include `Co-authored-by: Codex <noreply@openai.com>` in the commit message.
 
 ## Writing
